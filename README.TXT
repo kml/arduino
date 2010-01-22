@@ -1,1 +1,6 @@
 Arduino example sketches
+
+...
+* knight_rider_play - http://knightrideronline.com/ ;]
+* pluszak - PluszTermo - http://kml.jogger.pl/2010/01/19/pluszowy-termometr-ds18b20-arduino-bieduino-lcd/
+...
